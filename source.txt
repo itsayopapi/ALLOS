@@ -1,0 +1,2985 @@
+
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="">
+    <link rel="canonical" href="https://e7a30a-2.myshopify.com/"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
+      Allos.home decor.Appliances
+</title>
+
+    
+      <meta name="description" content="Get you home decorated at an affordable price">
+    
+
+    
+
+<meta property="og:site_name" content="Allos">
+<meta property="og:url" content="https://e7a30a-2.myshopify.com/">
+<meta property="og:title" content="Allos.home decor.Appliances">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Get you home decorated at an affordable price"><meta property="og:image" content="http://e7a30a-2.myshopify.com/cdn/shop/files/20230705_231535_0000_01c08559-a778-497f-8fda-3f2dd7cfebe8.png?v=1688625855">
+  <meta property="og:image:secure_url" content="https://e7a30a-2.myshopify.com/cdn/shop/files/20230705_231535_0000_01c08559-a778-497f-8fda-3f2dd7cfebe8.png?v=1688625855">
+  <meta property="og:image:width" content="500">
+  <meta property="og:image:height" content="500"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Allos.home decor.Appliances">
+<meta name="twitter:description" content="Get you home decorated at an affordable price">
+
+
+    <script src="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/constants.js?v=58251544750838685771688381743" defer="defer"></script>
+    <script src="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/pubsub.js?v=158357773527763999511688381781" defer="defer"></script>
+    <script src="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/global.js?v=139248116715221171191688381760" defer="defer"></script><script src="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/animations.js?v=114255849464433187621688381755" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="google-site-verification" content="J3hxn1yJb1oROlse-ixwdkDcEhjk1FiM_HP9AX6IwWw">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/78370210069/digital_wallets/dialog">
+<script>
+  (function() {
+    var scripts = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/runtime.latest.en.e4cd673b01f883a18f39.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/809.latest.en.22b066f200008aec130a.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/810.latest.en.89cbc407b0fea47d8592.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information.latest.en.16ce62e2e4432736e7e6.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/90.latest.en.37f6b0ae2fa4de8e13e2.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/842.latest.en.15b973c3dc8e33e27356.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/551.latest.en.2ba3c1e0e8bb478b6136.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.en.6b7fd79704eb85b27bf7.js"];
+    var styles = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/90.latest.en.4ef499f32e4f2515af86.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.en.1667db3b0d933aefb522.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/739.latest.en.ffa9763b408fc6f04c9b.css"];
+
+    function prefetch(url, as, callback) {
+      var link = document.createElement('link');
+      if (link.relList.supports('prefetch')) {
+        link.rel = 'prefetch';
+        link.fetchPriority = 'low';
+        link.as = as;
+        link.href = url;
+        link.onload = link.onerror = callback;
+        document.head.appendChild(link);
+      } else {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.onloadend = callback;
+        xhr.send();
+      }
+    }
+
+    function prefetchAssets() {
+      var resources = [].concat(
+        scripts.map(function(url) { return [url, 'script']; }),
+        styles.map(function(url) { return [url, 'style']; })
+      );
+      var index = 0;
+      (function next() {
+        var res = resources[index++];
+        if (res) prefetch(res[0], res[1], next);
+      })();
+    }
+
+    addEventListener('load', prefetchAssets);
+   })();
+</script>
+<script id="shopify-features" type="application/json">{"accessToken":"e5be1b6f05d1618a8fbc98290f360a2a","betas":["rich-media-storefront-analytics"],"domain":"e7a30a-2.myshopify.com","predictiveSearch":true,"shopId":78370210069,"smart_payment_buttons_url":"https:\/\/e7a30a-2.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/e7a30a-2.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":false,"betterDynamicCheckoutRecommendation":false}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "e7a30a-2.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"ZAR","rate":"1.0"};
+Shopify.country = "ZA";
+Shopify.theme = {"name":"Spotlight","id":153369641237,"theme_store_id":1891,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/app.cjdropshipping.com\/static\/shopify\/pod\/cjpodflag.js?shop=e7a30a-2.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":78370210069,"offset":7200,"reqid":"56ebabed-3437-4aba-959c-bcbdd1f52b0b","pageurl":"e7a30a-2.myshopify.com\/?_ab=0\u0026_fd=0\u0026_sc=1","u":"3feb74fb2ed2","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-mTJpsrW8Nzb5NIidOqBkPZKXQ1pcLXXURK3zwadZxGI=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//e7a30a-2.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-993269b2b5bc3736f934889d3aa0643d9297435a5c2d75d444adf3c1a759c462.js" crossorigin="anonymous"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//e7a30a-2.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+<script id="sections-script" data-sections="header" defer="defer" src="//e7a30a-2.myshopify.com/cdn/shop/t/2/compiled_assets/scripts.js?18"></script>
+
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+
+    <style data-shopify>
+      @font-face {
+  font-family: Inter;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//e7a30a-2.myshopify.com/cdn/fonts/inter/inter_n4.481bd4d19704ca98fb1d3abd50c668b6962860a2.woff2?h1=ZTdhMzBhLTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=7c7b26899b77ad62ea28c6947f6fe3dfba01c9ac1dfd6d495e02df601c71f434") format("woff2"),
+       url("//e7a30a-2.myshopify.com/cdn/fonts/inter/inter_n4.5a356a4c1877691cd26008ee4a5c7ada675c80ce.woff?h1=ZTdhMzBhLTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=0126a3caf0a2f9bd50d2915007d1f8065d64ddcc76e5b8748cf813723c258bc2") format("woff");
+}
+
+      @font-face {
+  font-family: Inter;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//e7a30a-2.myshopify.com/cdn/fonts/inter/inter_n7.50ef4139896edec0637fde057914fbf7e3a8d56e.woff2?h1=ZTdhMzBhLTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=4284b21c470a89f7c60acf407799d0a15947f6e769024061f739960ba72a89a2") format("woff2"),
+       url("//e7a30a-2.myshopify.com/cdn/fonts/inter/inter_n7.194c3d3f64efd8e4c82bbbe83dc84f5893fd9087.woff?h1=ZTdhMzBhLTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=7258bf5a6017bd49cc1bf81e418739142b338ba7dc3c6b0399e303c992eb4143") format("woff");
+}
+
+      
+      
+      @font-face {
+  font-family: Inter;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//e7a30a-2.myshopify.com/cdn/fonts/inter/inter_n4.481bd4d19704ca98fb1d3abd50c668b6962860a2.woff2?h1=ZTdhMzBhLTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=7c7b26899b77ad62ea28c6947f6fe3dfba01c9ac1dfd6d495e02df601c71f434") format("woff2"),
+       url("//e7a30a-2.myshopify.com/cdn/fonts/inter/inter_n4.5a356a4c1877691cd26008ee4a5c7ada675c80ce.woff?h1=ZTdhMzBhLTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=0126a3caf0a2f9bd50d2915007d1f8065d64ddcc76e5b8748cf813723c258bc2") format("woff");
+}
+
+
+      
+        :root,
+        .color-background-1 {
+          --color-background: 245,245,245;
+        
+          --gradient-background: #f5f5f5;
+        
+        --color-foreground: 18,18,18;
+        --color-shadow: 18,18,18;
+        --color-button: 18,18,18;
+        --color-button-text: 255,255,255;
+        --color-secondary-button: 245,245,245;
+        --color-secondary-button-text: 18,18,18;
+        --color-link: 18,18,18;
+        --color-badge-foreground: 18,18,18;
+        --color-badge-background: 245,245,245;
+        --color-badge-border: 18,18,18;
+        --payment-terms-background-color: rgb(245 245 245);
+      }
+      
+        
+        .color-background-2 {
+          --color-background: 243,243,243;
+        
+          --gradient-background: #f3f3f3;
+        
+        --color-foreground: 18,18,18;
+        --color-shadow: 18,18,18;
+        --color-button: 18,18,18;
+        --color-button-text: 243,243,243;
+        --color-secondary-button: 243,243,243;
+        --color-secondary-button-text: 18,18,18;
+        --color-link: 18,18,18;
+        --color-badge-foreground: 18,18,18;
+        --color-badge-background: 243,243,243;
+        --color-badge-border: 18,18,18;
+        --payment-terms-background-color: rgb(243 243 243);
+      }
+      
+        
+        .color-inverse {
+          --color-background: 18,18,18;
+        
+          --gradient-background: #121212;
+        
+        --color-foreground: 255,255,255;
+        --color-shadow: 18,18,18;
+        --color-button: 255,255,255;
+        --color-button-text: 18,18,18;
+        --color-secondary-button: 18,18,18;
+        --color-secondary-button-text: 255,255,255;
+        --color-link: 255,255,255;
+        --color-badge-foreground: 255,255,255;
+        --color-badge-background: 18,18,18;
+        --color-badge-border: 255,255,255;
+        --payment-terms-background-color: rgb(18 18 18);
+      }
+      
+        
+        .color-accent-1 {
+          --color-background: 18,18,18;
+        
+          --gradient-background: #121212;
+        
+        --color-foreground: 255,255,255;
+        --color-shadow: 18,18,18;
+        --color-button: 255,255,255;
+        --color-button-text: 18,18,18;
+        --color-secondary-button: 18,18,18;
+        --color-secondary-button-text: 255,255,255;
+        --color-link: 255,255,255;
+        --color-badge-foreground: 255,255,255;
+        --color-badge-background: 18,18,18;
+        --color-badge-border: 255,255,255;
+        --payment-terms-background-color: rgb(18 18 18);
+      }
+      
+        
+        .color-accent-2 {
+          --color-background: 185,0,0;
+        
+          --gradient-background: #b90000;
+        
+        --color-foreground: 255,255,255;
+        --color-shadow: 18,18,18;
+        --color-button: 255,255,255;
+        --color-button-text: 185,0,0;
+        --color-secondary-button: 185,0,0;
+        --color-secondary-button-text: 255,255,255;
+        --color-link: 255,255,255;
+        --color-badge-foreground: 255,255,255;
+        --color-badge-background: 185,0,0;
+        --color-badge-border: 255,255,255;
+        --payment-terms-background-color: rgb(185 0 0);
+      }
+      
+
+      body, .color-background-1, .color-background-2, .color-inverse, .color-accent-1, .color-accent-2 {
+        color: rgba(var(--color-foreground), 0.75);
+        background-color: rgb(var(--color-background));
+      }
+
+      :root {
+        --font-body-family: Inter, sans-serif;
+        --font-body-style: normal;
+        --font-body-weight: 400;
+        --font-body-weight-bold: 700;
+
+        --font-heading-family: Inter, sans-serif;
+        --font-heading-style: normal;
+        --font-heading-weight: 400;
+
+        --font-body-scale: 1.0;
+        --font-heading-scale: 1.0;
+
+        --media-padding: px;
+        --media-border-opacity: 0.0;
+        --media-border-width: 0px;
+        --media-radius: 4px;
+        --media-shadow-opacity: 0.0;
+        --media-shadow-horizontal-offset: 0px;
+        --media-shadow-vertical-offset: 4px;
+        --media-shadow-blur-radius: 5px;
+        --media-shadow-visible: 0;
+
+        --page-width: 120rem;
+        --page-width-margin: 0rem;
+
+        --product-card-image-padding: 0.0rem;
+        --product-card-corner-radius: 1.6rem;
+        --product-card-text-alignment: left;
+        --product-card-border-width: 0.0rem;
+        --product-card-border-opacity: 0.1;
+        --product-card-shadow-opacity: 0.0;
+        --product-card-shadow-visible: 0;
+        --product-card-shadow-horizontal-offset: 0.0rem;
+        --product-card-shadow-vertical-offset: 0.4rem;
+        --product-card-shadow-blur-radius: 0.5rem;
+
+        --collection-card-image-padding: 0.0rem;
+        --collection-card-corner-radius: 1.6rem;
+        --collection-card-text-alignment: left;
+        --collection-card-border-width: 0.0rem;
+        --collection-card-border-opacity: 0.1;
+        --collection-card-shadow-opacity: 0.0;
+        --collection-card-shadow-visible: 0;
+        --collection-card-shadow-horizontal-offset: 0.0rem;
+        --collection-card-shadow-vertical-offset: 0.4rem;
+        --collection-card-shadow-blur-radius: 0.5rem;
+
+        --blog-card-image-padding: 0.0rem;
+        --blog-card-corner-radius: 1.6rem;
+        --blog-card-text-alignment: left;
+        --blog-card-border-width: 0.0rem;
+        --blog-card-border-opacity: 0.1;
+        --blog-card-shadow-opacity: 0.0;
+        --blog-card-shadow-visible: 0;
+        --blog-card-shadow-horizontal-offset: 0.0rem;
+        --blog-card-shadow-vertical-offset: 0.4rem;
+        --blog-card-shadow-blur-radius: 0.5rem;
+
+        --badge-corner-radius: 0.4rem;
+
+        --popup-border-width: 1px;
+        --popup-border-opacity: 1.0;
+        --popup-corner-radius: 4px;
+        --popup-shadow-opacity: 0.0;
+        --popup-shadow-horizontal-offset: 0px;
+        --popup-shadow-vertical-offset: 4px;
+        --popup-shadow-blur-radius: 5px;
+
+        --drawer-border-width: 1px;
+        --drawer-border-opacity: 0.1;
+        --drawer-shadow-opacity: 0.0;
+        --drawer-shadow-horizontal-offset: 0px;
+        --drawer-shadow-vertical-offset: 4px;
+        --drawer-shadow-blur-radius: 5px;
+
+        --spacing-sections-desktop: 0px;
+        --spacing-sections-mobile: 0px;
+
+        --grid-desktop-vertical-spacing: 16px;
+        --grid-desktop-horizontal-spacing: 16px;
+        --grid-mobile-vertical-spacing: 8px;
+        --grid-mobile-horizontal-spacing: 8px;
+
+        --text-boxes-border-opacity: 0.1;
+        --text-boxes-border-width: 0px;
+        --text-boxes-radius: 0px;
+        --text-boxes-shadow-opacity: 0.0;
+        --text-boxes-shadow-visible: 0;
+        --text-boxes-shadow-horizontal-offset: 0px;
+        --text-boxes-shadow-vertical-offset: 4px;
+        --text-boxes-shadow-blur-radius: 5px;
+
+        --buttons-radius: 4px;
+        --buttons-radius-outset: 5px;
+        --buttons-border-width: 1px;
+        --buttons-border-opacity: 1.0;
+        --buttons-shadow-opacity: 0.0;
+        --buttons-shadow-visible: 0;
+        --buttons-shadow-horizontal-offset: 0px;
+        --buttons-shadow-vertical-offset: 4px;
+        --buttons-shadow-blur-radius: 5px;
+        --buttons-border-offset: 0.3px;
+
+        --inputs-radius: 4px;
+        --inputs-border-width: 1px;
+        --inputs-border-opacity: 1.0;
+        --inputs-shadow-opacity: 0.0;
+        --inputs-shadow-horizontal-offset: 0px;
+        --inputs-margin-offset: 0px;
+        --inputs-shadow-vertical-offset: 4px;
+        --inputs-shadow-blur-radius: 5px;
+        --inputs-radius-outset: 5px;
+
+        --variant-pills-radius: 40px;
+        --variant-pills-border-width: 1px;
+        --variant-pills-border-opacity: 0.55;
+        --variant-pills-shadow-opacity: 0.0;
+        --variant-pills-shadow-horizontal-offset: 0px;
+        --variant-pills-shadow-vertical-offset: 4px;
+        --variant-pills-shadow-blur-radius: 5px;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+      }
+
+      html {
+        box-sizing: border-box;
+        font-size: calc(var(--font-body-scale) * 62.5%);
+        height: 100%;
+      }
+
+      body {
+        display: grid;
+        grid-template-rows: auto auto 1fr auto;
+        grid-template-columns: 100%;
+        min-height: 100%;
+        margin: 0;
+        font-size: 1.5rem;
+        letter-spacing: 0.06rem;
+        line-height: calc(1 + 0.8 / var(--font-body-scale));
+        font-family: var(--font-body-family);
+        font-style: var(--font-body-style);
+        font-weight: var(--font-body-weight);
+      }
+
+      @media screen and (min-width: 750px) {
+        body {
+          font-size: 1.6rem;
+        }
+      }
+    </style>
+
+    <link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/base.css?v=117828829876360325261688381778" rel="stylesheet" type="text/css" media="all" />
+<link rel="preload" as="font" href="//e7a30a-2.myshopify.com/cdn/fonts/inter/inter_n4.481bd4d19704ca98fb1d3abd50c668b6962860a2.woff2?h1=ZTdhMzBhLTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=7c7b26899b77ad62ea28c6947f6fe3dfba01c9ac1dfd6d495e02df601c71f434" type="font/woff2" crossorigin><link rel="preload" as="font" href="//e7a30a-2.myshopify.com/cdn/fonts/inter/inter_n4.481bd4d19704ca98fb1d3abd50c668b6962860a2.woff2?h1=ZTdhMzBhLTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=7c7b26899b77ad62ea28c6947f6fe3dfba01c9ac1dfd6d495e02df601c71f434" type="font/woff2" crossorigin><link
+        rel="stylesheet"
+        href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-predictive-search.css?v=118923337488134913561688381756"
+        media="print"
+        onload="this.media='all'"
+      ><script>
+      document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+      if (Shopify.designMode) {
+        document.documentElement.classList.add('shopify-design-mode');
+      }
+    </script>
+  <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 78370210069,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,o,t,r,i){function s(e,n){if(document.head){var a=document.createElement("link");e.match(/spin\.dev\/?/)&&(e+="?fast_storefront_renderer=1"),a.rel="preload",a.href=e,n&&(a.as=n);try{document.head.appendChild(a)}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Could not append prefetch link tag to DOM.")}}}var l=i||[],d=null!==e;d&&(window.Shopify=window.Shopify||{},window.Shopify.analytics=window.Shopify.analytics||{},window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=function(e,n,a){window.Shopify.analytics.replayQueue.push([e,n,a])});var c=function(){var e="legacy",n="unknown",a=null,o=navigator.userAgent.match(/(Firefox|Chrome)\/(\d+)/i),t=navigator.userAgent.match(/(Edg)\/(\d+)/i),r=navigator.userAgent.match(/(Version)\/(\d+)(.+)(Safari)\/(\d+)/i);r?(n="safari",a=parseInt(r[2],10)):t?(n="edge",a=parseInt(t[2],10)):o&&(n=o[1].toLocaleLowerCase(),a=parseInt(o[2],10));var i={chrome:60,firefox:55,safari:11,edge:80}[n];return void 0!==i&&null!==a&&i<=a&&(e="modern"),e}(),p=c.substring(0,1),f=o.substring(0,1);if(d)try{self.performance.mark("wpm:start")}catch(e){}if(d){var u=self.location.origin,w=(e.webPixelsConfigList||[]).filter((function(e){return"app"===e.type.toLowerCase()}));for(let e=0;e<w.length;e++){s([u,"/wpm@",r,"/web-pixel-",w[e].id,"@",w[e].scriptVersion,"/sandbox/worker.",c,".js"].join(""),"script")}}var h,y,m,g,v,b,_,S,x=[a,"/wpm","/",f,r,p,".js"].join("");h={src:x,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);n(a),window.Shopify.analytics.replayQueue.forEach((function(e){a.publishCustomEvent(e[0],e[1],e[2])})),window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=a.publishCustomEvent,l.indexOf("web_pixels_identify_api")>-1&&(window.Shopify.analytics.identify=a.identify)}},onerror:function(){var n=(e.storefrontBaseUrl?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin)+"/.well-known/shopify/monorail/unstable/produce_batch",a=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:x+" has failed to load"},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(n,a))return!0}catch(e){}const o=new XMLHttpRequest;try{return o.open("POST",n,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(a),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}},y=document.createElement("script"),m=h.src,g=h.async||!0,v=h.onload,b=h.onerror,_=document.head,S=document.body,y.async=g,y.src=m,v&&y.addEventListener("load",v),b&&y.addEventListener("error",b),_?_.appendChild(y):S?S.appendChild(y):console.error("Did not find a head or body element to append the script")})({shopId: 78370210069,storefrontBaseUrl: "https://e7a30a-2.myshopify.com",cdnBaseUrl: "https://e7a30a-2.myshopify.com/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0557","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0557","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");},"https://e7a30a-2.myshopify.com/cdn","browser","0.0.337","6b44608cwcf56d5e7p4ae4b2b5m34ff8b1a",["web_pixels_async_pixel_refactor"]);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'ZAR';
+var meta = {"page":{"pageType":"home"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 78370210069,
+      theme_id: 153369641237,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.e3446faf2feba5857aa32712db2bec9cd365a6df.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.e3446faf2feba5857aa32712db2bec9cd365a6df.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = 'https://cdn.shopify.com/s/trekkie.storefront.e3446faf2feba5857aa32712db2bec9cd365a6df.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":78370210069,"isMerchantRequest":null,"themeId":153369641237,"themeCityHash":"10585338751302186257","contentLanguage":"en","currency":"ZAR"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Google Gtag Pixel":{"conversionId":"AW-11251011229","eventLabels":[{"type":"begin_checkout","action_label":"AW-11251011229\/Jap3CP6gj7gYEJ2d8_Qp"},{"type":"search","action_label":"AW-11251011229\/1Ny0CPigj7gYEJ2d8_Qp"},{"type":"view_item","action_label":["AW-11251011229\/-mxbCPWgj7gYEJ2d8_Qp","MC-WML6ZJXSCX"]},{"type":"purchase","action_label":["AW-11251011229\/4plQCO-gj7gYEJ2d8_Qp","MC-WML6ZJXSCX"]},{"type":"page_view","action_label":["AW-11251011229\/EBXoCPKgj7gYEJ2d8_Qp","MC-WML6ZJXSCX"]},{"type":"add_payment_info","action_label":"AW-11251011229\/uV8cCIGhj7gYEJ2d8_Qp"},{"type":"add_to_cart","action_label":"AW-11251011229\/TwRdCPugj7gYEJ2d8_Qp"}],"targetCountry":"ZA"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+  
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//e7a30a-2.myshopify.com/cdn/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Spotlight";
+  window.BOOMR.themeVersion = "10.0.0";
+  window.BOOMR.shopId = 78370210069;
+  window.BOOMR.themeId = 153369641237;
+  window.BOOMR.renderRegion = "gcp-europe-west1";
+  window.BOOMR.url =
+    "https://e7a30a-2.myshopify.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+</head>
+
+  <body class="gradient">
+    <a class="skip-to-content-link button visually-hidden" href="#MainContent">
+      Skip to content
+    </a><!-- BEGIN sections: header-group -->
+<div id="shopify-section-sections--19697344676117__header" class="shopify-section shopify-section-group-header-group section-header"><link rel="stylesheet" href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-list-menu.css?v=151968516119678728991688381766" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-search.css?v=130382253973794904871688381748" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-menu-drawer.css?v=160161990486659892291688381752" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-cart-notification.css?v=54116361853792938221688381745" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-cart-items.css?v=4628327769354762111688381779" media="print" onload="this.media='all'"><link rel="stylesheet" href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-price.css?v=65402837579211014041688381751" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-loading-overlay.css?v=43236910203777044501688381784" media="print" onload="this.media='all'"><noscript><link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-list-menu.css?v=151968516119678728991688381766" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-search.css?v=130382253973794904871688381748" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-menu-drawer.css?v=160161990486659892291688381752" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-cart-notification.css?v=54116361853792938221688381745" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-cart-items.css?v=4628327769354762111688381779" rel="stylesheet" type="text/css" media="all" /></noscript>
+
+<style>
+  header-drawer {
+    justify-self: start;
+    margin-left: -1.2rem;
+  }@media screen and (min-width: 990px) {
+      header-drawer {
+        display: none;
+      }
+    }.menu-drawer-container {
+    display: flex;
+  }
+
+  .list-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .list-menu--inline {
+    display: inline-flex;
+    flex-wrap: wrap;
+  }
+
+  summary.list-menu__item {
+    padding-right: 2.7rem;
+  }
+
+  .list-menu__item {
+    display: flex;
+    align-items: center;
+    line-height: calc(1 + 0.3 / var(--font-body-scale));
+  }
+
+  .list-menu__item--link {
+    text-decoration: none;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    line-height: calc(1 + 0.8 / var(--font-body-scale));
+  }
+
+  @media screen and (min-width: 750px) {
+    .list-menu__item--link {
+      padding-bottom: 0.5rem;
+      padding-top: 0.5rem;
+    }
+  }
+</style><style data-shopify>.header {
+    padding-top: 18px;
+    padding-bottom: 6px;
+  }
+
+  .section-header {
+    position: sticky; /* This is for fixing a Safari z-index issue. PR #2147 */
+    margin-bottom: 0px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-header {
+      margin-bottom: 0px;
+    }
+  }
+
+  @media screen and (min-width: 990px) {
+    .header {
+      padding-top: 36px;
+      padding-bottom: 12px;
+    }
+  }</style><script src="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/details-disclosure.js?v=13653116266235556501688381775" defer="defer"></script>
+<script src="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/details-modal.js?v=25581673532751508451688381774" defer="defer"></script>
+<script src="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/cart-notification.js?v=133508293167896966491688381751" defer="defer"></script>
+<script src="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/search-form.js?v=133129549252120666541688381761" defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
+  <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/>
+  </symbol>
+
+  <symbol id="icon-reset" class="icon icon-close"  fill="none" viewBox="0 0 18 18" stroke="currentColor">
+    <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2"/>
+    <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/>
+    <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/>
+  </symbol>
+
+  <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+    <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+  </symbol>
+</svg><sticky-header data-sticky-type="on-scroll-up" class="header-wrapper color-background-1 gradient"><header class="header header--middle-left header--mobile-center page-width">
+
+<details-modal class="header__search">
+  <details>
+    <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="Search">
+      <span>
+        <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false">
+          <use href="#icon-search">
+        </svg>
+        <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
+          <use href="#icon-close">
+        </svg>
+      </span>
+    </summary>
+    <div class="search-modal modal__content gradient" role="dialog" aria-modal="true" aria-label="Search">
+      <div class="modal-overlay"></div>
+      <div class="search-modal__content search-modal__content-bottom" tabindex="-1"><predictive-search class="search-modal__form" data-loading-text="Loading..."><form action="/search" method="get" role="search" class="search search-modal__form">
+              <div class="field">
+                <input class="search__input field__input"
+                  id="Search-In-Modal-1"
+                  type="search"
+                  name="q"
+                  value=""
+                  placeholder="Search"role="combobox"
+                    aria-expanded="false"
+                    aria-owns="predictive-search-results"
+                    aria-controls="predictive-search-results"
+                    aria-haspopup="listbox"
+                    aria-autocomplete="list"
+                    autocorrect="off"
+                    autocomplete="off"
+                    autocapitalize="off"
+                    spellcheck="false">
+                <label class="field__label" for="Search-In-Modal-1">Search</label>
+                <input type="hidden" name="options[prefix]" value="last">
+                <button type="reset" class="reset__button field__button hidden" aria-label="Clear search term">
+                  <svg class="icon icon-close" aria-hidden="true" focusable="false">
+                    <use xlink:href="#icon-reset">
+                  </svg>
+                </button>
+                <button class="search__button field__button" aria-label="Search">
+                  <svg class="icon icon-search" aria-hidden="true" focusable="false">
+                    <use href="#icon-search">
+                  </svg>
+                </button>
+              </div><div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
+                  <div class="predictive-search__loading-state">
+                    <svg aria-hidden="true" focusable="false" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                      <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                    </svg>
+                  </div>
+                </div>
+
+                <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span></form></predictive-search><button type="button" class="search-modal__close-button modal__close-button link link--text focus-inset" aria-label="Close">
+          <svg class="icon icon-close" aria-hidden="true" focusable="false">
+            <use href="#icon-close">
+          </svg>
+        </button>
+      </div>
+    </div>
+  </details>
+</details-modal>
+<h1 class="header__heading"><a href="/" class="header__heading-link link link--text focus-inset"><div class="header__heading-logo-wrapper">
+                
+                <img src="//e7a30a-2.myshopify.com/cdn/shop/files/20230705_231535_0000.png?v=1688591794&amp;width=600" alt="Allos" srcset="//e7a30a-2.myshopify.com/cdn/shop/files/20230705_231535_0000.png?v=1688591794&amp;width=300 300w, //e7a30a-2.myshopify.com/cdn/shop/files/20230705_231535_0000.png?v=1688591794&amp;width=450 450w, //e7a30a-2.myshopify.com/cdn/shop/files/20230705_231535_0000.png?v=1688591794&amp;width=600 600w" width="300" height="300.0" loading="eager" class="header__heading-logo motion-reduce" sizes="(max-width: 600px) 50vw, 300px">
+              </div></a></h1>
+<div class="header__icons">
+      <div class="desktop-localization-wrapper">
+</div>
+      
+
+<details-modal class="header__search">
+  <details>
+    <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="Search">
+      <span>
+        <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false">
+          <use href="#icon-search">
+        </svg>
+        <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
+          <use href="#icon-close">
+        </svg>
+      </span>
+    </summary>
+    <div class="search-modal modal__content gradient" role="dialog" aria-modal="true" aria-label="Search">
+      <div class="modal-overlay"></div>
+      <div class="search-modal__content search-modal__content-bottom" tabindex="-1"><predictive-search class="search-modal__form" data-loading-text="Loading..."><form action="/search" method="get" role="search" class="search search-modal__form">
+              <div class="field">
+                <input class="search__input field__input"
+                  id="Search-In-Modal"
+                  type="search"
+                  name="q"
+                  value=""
+                  placeholder="Search"role="combobox"
+                    aria-expanded="false"
+                    aria-owns="predictive-search-results"
+                    aria-controls="predictive-search-results"
+                    aria-haspopup="listbox"
+                    aria-autocomplete="list"
+                    autocorrect="off"
+                    autocomplete="off"
+                    autocapitalize="off"
+                    spellcheck="false">
+                <label class="field__label" for="Search-In-Modal">Search</label>
+                <input type="hidden" name="options[prefix]" value="last">
+                <button type="reset" class="reset__button field__button hidden" aria-label="Clear search term">
+                  <svg class="icon icon-close" aria-hidden="true" focusable="false">
+                    <use xlink:href="#icon-reset">
+                  </svg>
+                </button>
+                <button class="search__button field__button" aria-label="Search">
+                  <svg class="icon icon-search" aria-hidden="true" focusable="false">
+                    <use href="#icon-search">
+                  </svg>
+                </button>
+              </div><div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
+                  <div class="predictive-search__loading-state">
+                    <svg aria-hidden="true" focusable="false" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                      <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                    </svg>
+                  </div>
+                </div>
+
+                <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span></form></predictive-search><button type="button" class="search-modal__close-button modal__close-button link link--text focus-inset" aria-label="Close">
+          <svg class="icon icon-close" aria-hidden="true" focusable="false">
+            <use href="#icon-close">
+          </svg>
+        </button>
+      </div>
+    </div>
+  </details>
+</details-modal>
+
+<a href="/cart" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble"><svg
+  class="icon icon-cart-empty"
+  aria-hidden="true"
+  focusable="false"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 40 40"
+  fill="none"
+>
+  <path d="m15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33l-.78-11.61zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1 -9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z" fill="currentColor" fill-rule="evenodd"/>
+</svg>
+<span class="visually-hidden">Cart</span></a>
+    </div>
+  </header>
+</sticky-header>
+
+<cart-notification>
+  <div class="cart-notification-wrapper page-width">
+    <div
+      id="cart-notification"
+      class="cart-notification focus-inset color-background-1 gradient"
+      aria-modal="true"
+      aria-label="Item added to your cart"
+      role="dialog"
+      tabindex="-1"
+    >
+      <div class="cart-notification__header">
+        <h2 class="cart-notification__heading caption-large text-body"><svg
+  class="icon icon-checkmark"
+  aria-hidden="true"
+  focusable="false"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 12 9"
+  fill="none"
+>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M11.35.643a.5.5 0 01.006.707l-6.77 6.886a.5.5 0 01-.719-.006L.638 4.845a.5.5 0 11.724-.69l2.872 3.011 6.41-6.517a.5.5 0 01.707-.006h-.001z" fill="currentColor"/>
+</svg>
+Item added to your cart
+        </h2>
+        <button
+          type="button"
+          class="cart-notification__close modal__close-button link link--text focus-inset"
+          aria-label="Close"
+        >
+          <svg class="icon icon-close" aria-hidden="true" focusable="false">
+            <use href="#icon-close">
+          </svg>
+        </button>
+      </div>
+      <div id="cart-notification-product" class="cart-notification-product"></div>
+      <div class="cart-notification__links">
+        <a
+          href="/cart"
+          id="cart-notification-button"
+          class="button button--secondary button--full-width"
+        >View cart</a>
+        <form action="/cart" method="post" id="cart-notification-form">
+          <button class="button button--primary button--full-width" name="checkout">
+            Check out
+          </button>
+        </form>
+        <button type="button" class="link button-label">Continue shopping</button>
+      </div>
+    </div>
+  </div>
+</cart-notification>
+<style data-shopify>
+  .cart-notification {
+    display: none;
+  }
+</style>
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Allos",
+    
+      "logo": "https:\/\/e7a30a-2.myshopify.com\/cdn\/shop\/files\/20230705_231535_0000.png?v=1688591794\u0026width=500",
+    
+    "sameAs": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "url": "https:\/\/e7a30a-2.myshopify.com"
+  }
+</script>
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "Allos",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https:\/\/e7a30a-2.myshopify.com\/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "url": "https:\/\/e7a30a-2.myshopify.com"
+    }
+  </script>
+</div>
+<!-- END sections: header-group -->
+
+    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+      <section id="shopify-section-template--19697344545045__featured_collection" class="shopify-section section"><link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-card.css?v=153897544549437130131688381775" rel="stylesheet" type="text/css" media="all" />
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-price.css?v=65402837579211014041688381751" rel="stylesheet" type="text/css" media="all" />
+
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-slider.css?v=142503135496229589681688381755" rel="stylesheet" type="text/css" media="all" />
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/template-collection.css?v=145944865380958730931688381776" rel="stylesheet" type="text/css" media="all" />
+
+<style data-shopify>.section-template--19697344545045__featured_collection-padding {
+    padding-top: 0px;
+    padding-bottom: 27px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-template--19697344545045__featured_collection-padding {
+      padding-top: 0px;
+      padding-bottom: 36px;
+    }
+  }</style><div class="color-background-1 isolate gradient">
+  <div class="collection section-template--19697344545045__featured_collection-padding">
+    <div class="collection__title title-wrapper title-wrapper--no-top-margin page-width"></div>
+
+    <slider-component class="slider-mobile-gutter page-width page-width-desktop scroll-trigger animate--slide-in">
+      <ul
+        id="Slider-template--19697344545045__featured_collection"
+        class="grid product-grid contains-card contains-card--product contains-card--standard grid--4-col-desktop grid--2-col-tablet-down"
+        role="list"
+        aria-label="Slider"
+      ><li
+            id="Slide-template--19697344545045__featured_collection-1"
+            class="grid__item scroll-trigger animate--slide-in"
+            
+              data-cascade
+              style="--animation-order: 1;"
+            
+          >
+            
+
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=157771854592137137841688381772" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 100%;"
+    >
+      <div
+        class="card__inner color-background-2 gradient ratio"
+        style="--ratio-percent: 100%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//e7a30a-2.myshopify.com/cdn/shop/files/601903645587.jpg?v=1689792944&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/601903645587.jpg?v=1689792944&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/601903645587.jpg?v=1689792944&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/601903645587.jpg?v=1689792944&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/601903645587.jpg?v=1689792944 800w
+                "
+                src="//e7a30a-2.myshopify.com/cdn/shop/files/601903645587.jpg?v=1689792944&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="4-piece stainless steel rose gold coffee spoon"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="800"
+                height="800"
+              >
+              
+<img
+                  srcset="//e7a30a-2.myshopify.com/cdn/shop/files/1237202047231.jpg?v=1689792946&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/1237202047231.jpg?v=1689792946&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/1237202047231.jpg?v=1689792946&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/1237202047231.jpg?v=1689792946&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/1237202047231.jpg?v=1689792946 800w
+                  "
+                  src="//e7a30a-2.myshopify.com/cdn/shop/files/1237202047231.jpg?v=1689792946&width=533"
+                  sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="800"
+                  height="800"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/4-piece-stainless-steel-rose-gold-coffee-spoon"
+                id="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386363523349"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386363523349 NoMediaStandardBadge-template--19697344545045__featured_collection-8386363523349"
+              >
+                4-piece stainless steel rose gold coffee spoon
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--19697344545045__featured_collection-8386363523349"
+            
+          >
+            <a
+              href="/products/4-piece-stainless-steel-rose-gold-coffee-spoon"
+              id="CardLink-template--19697344545045__featured_collection-8386363523349"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--19697344545045__featured_collection-8386363523349 Badge-template--19697344545045__featured_collection-8386363523349"
+            >
+              4-piece stainless steel rose gold coffee spoon
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+  class="
+    price "
+>
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        R 250.00 ZAR
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        R 250.00 ZAR
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li
+            id="Slide-template--19697344545045__featured_collection-2"
+            class="grid__item scroll-trigger animate--slide-in"
+            
+              data-cascade
+              style="--animation-order: 2;"
+            
+          >
+            
+
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=157771854592137137841688381772" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 100%;"
+    >
+      <div
+        class="card__inner color-background-2 gradient ratio"
+        style="--ratio-percent: 100%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//e7a30a-2.myshopify.com/cdn/shop/files/acd23934-f23c-4af5-b664-9a303333f126.jpg?v=1689791801&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/acd23934-f23c-4af5-b664-9a303333f126.jpg?v=1689791801&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/acd23934-f23c-4af5-b664-9a303333f126.jpg?v=1689791801&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/acd23934-f23c-4af5-b664-9a303333f126.jpg?v=1689791801&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/acd23934-f23c-4af5-b664-9a303333f126.jpg?v=1689791801 800w
+                "
+                src="//e7a30a-2.myshopify.com/cdn/shop/files/acd23934-f23c-4af5-b664-9a303333f126.jpg?v=1689791801&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Ceramic Decoration For Household Vase"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="800"
+                height="800"
+              >
+              
+<img
+                  srcset="//e7a30a-2.myshopify.com/cdn/shop/files/7c2cc9f9-acab-4182-93d5-6da900f28373.jpg?v=1689791803&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/7c2cc9f9-acab-4182-93d5-6da900f28373.jpg?v=1689791803&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/7c2cc9f9-acab-4182-93d5-6da900f28373.jpg?v=1689791803&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/7c2cc9f9-acab-4182-93d5-6da900f28373.jpg?v=1689791803&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/7c2cc9f9-acab-4182-93d5-6da900f28373.jpg?v=1689791803 800w
+                  "
+                  src="//e7a30a-2.myshopify.com/cdn/shop/files/7c2cc9f9-acab-4182-93d5-6da900f28373.jpg?v=1689791803&width=533"
+                  sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="800"
+                  height="800"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/ceramic-decoration-for-household-vase"
+                id="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386288288021"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386288288021 NoMediaStandardBadge-template--19697344545045__featured_collection-8386288288021"
+              >
+                Ceramic Decoration For Household Vase
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--19697344545045__featured_collection-8386288288021"
+            
+          >
+            <a
+              href="/products/ceramic-decoration-for-household-vase"
+              id="CardLink-template--19697344545045__featured_collection-8386288288021"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--19697344545045__featured_collection-8386288288021 Badge-template--19697344545045__featured_collection-8386288288021"
+            >
+              Ceramic Decoration For Household Vase
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+  class="
+    price "
+>
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        From R 317.00 ZAR
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        From R 317.00 ZAR
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li
+            id="Slide-template--19697344545045__featured_collection-3"
+            class="grid__item scroll-trigger animate--slide-in"
+            
+              data-cascade
+              style="--animation-order: 3;"
+            
+          >
+            
+
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=157771854592137137841688381772" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 100%;"
+    >
+      <div
+        class="card__inner color-background-2 gradient ratio"
+        style="--ratio-percent: 100%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//e7a30a-2.myshopify.com/cdn/shop/files/3a3f8c96-256b-45fe-841a-07a38f7c06bf.jpg?v=1689792004&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/3a3f8c96-256b-45fe-841a-07a38f7c06bf.jpg?v=1689792004&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/3a3f8c96-256b-45fe-841a-07a38f7c06bf.jpg?v=1689792004&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/3a3f8c96-256b-45fe-841a-07a38f7c06bf.jpg?v=1689792004&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/3a3f8c96-256b-45fe-841a-07a38f7c06bf.jpg?v=1689792004&width=940 940w,//e7a30a-2.myshopify.com/cdn/shop/files/3a3f8c96-256b-45fe-841a-07a38f7c06bf.jpg?v=1689792004&width=1066 1066w,//e7a30a-2.myshopify.com/cdn/shop/files/3a3f8c96-256b-45fe-841a-07a38f7c06bf.jpg?v=1689792004 1600w
+                "
+                src="//e7a30a-2.myshopify.com/cdn/shop/files/3a3f8c96-256b-45fe-841a-07a38f7c06bf.jpg?v=1689792004&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Ceramic Vase Circle Vase Second Generation Decoration Crafts Soft Vase"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="1600"
+                height="1600"
+              >
+              
+<img
+                  srcset="//e7a30a-2.myshopify.com/cdn/shop/files/3c486f56-3e56-4d2d-887c-30342b79489d.jpg?v=1689792006&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/3c486f56-3e56-4d2d-887c-30342b79489d.jpg?v=1689792006&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/3c486f56-3e56-4d2d-887c-30342b79489d.jpg?v=1689792006&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/3c486f56-3e56-4d2d-887c-30342b79489d.jpg?v=1689792006&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/3c486f56-3e56-4d2d-887c-30342b79489d.jpg?v=1689792006&width=940 940w,//e7a30a-2.myshopify.com/cdn/shop/files/3c486f56-3e56-4d2d-887c-30342b79489d.jpg?v=1689792006&width=1066 1066w,//e7a30a-2.myshopify.com/cdn/shop/files/3c486f56-3e56-4d2d-887c-30342b79489d.jpg?v=1689792006 1600w
+                  "
+                  src="//e7a30a-2.myshopify.com/cdn/shop/files/3c486f56-3e56-4d2d-887c-30342b79489d.jpg?v=1689792006&width=533"
+                  sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="1600"
+                  height="1600"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/ceramic-vase-circle-vase-second-generation-decoration-crafts-soft-vase"
+                id="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386301002005"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386301002005 NoMediaStandardBadge-template--19697344545045__featured_collection-8386301002005"
+              >
+                Ceramic Vase Circle Vase Second Generation Decoration Crafts Soft Vase
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--19697344545045__featured_collection-8386301002005"
+            
+          >
+            <a
+              href="/products/ceramic-vase-circle-vase-second-generation-decoration-crafts-soft-vase"
+              id="CardLink-template--19697344545045__featured_collection-8386301002005"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--19697344545045__featured_collection-8386301002005 Badge-template--19697344545045__featured_collection-8386301002005"
+            >
+              Ceramic Vase Circle Vase Second Generation Decoration Crafts Soft Vase
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+  class="
+    price "
+>
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        From R 437.00 ZAR
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        From R 437.00 ZAR
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li
+            id="Slide-template--19697344545045__featured_collection-4"
+            class="grid__item scroll-trigger animate--slide-in"
+            
+              data-cascade
+              style="--animation-order: 4;"
+            
+          >
+            
+
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=157771854592137137841688381772" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 100%;"
+    >
+      <div
+        class="card__inner color-background-2 gradient ratio"
+        style="--ratio-percent: 100%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//e7a30a-2.myshopify.com/cdn/shop/files/1621597867385.jpg?v=1689794467&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/1621597867385.jpg?v=1689794467&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/1621597867385.jpg?v=1689794467&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/1621597867385.jpg?v=1689794467&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/1621597867385.jpg?v=1689794467 800w
+                "
+                src="//e7a30a-2.myshopify.com/cdn/shop/files/1621597867385.jpg?v=1689794467&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Creative Modern Minimalist Wall Clock"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="800"
+                height="800"
+              >
+              
+<img
+                  srcset="//e7a30a-2.myshopify.com/cdn/shop/files/1621597867389.jpg?v=1689794470&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/1621597867389.jpg?v=1689794470&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/1621597867389.jpg?v=1689794470&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/1621597867389.jpg?v=1689794470&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/1621597867389.jpg?v=1689794470 800w
+                  "
+                  src="//e7a30a-2.myshopify.com/cdn/shop/files/1621597867389.jpg?v=1689794470&width=533"
+                  sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="800"
+                  height="800"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/creative-modern-minimalist-wall-clock"
+                id="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386513174805"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386513174805 NoMediaStandardBadge-template--19697344545045__featured_collection-8386513174805"
+              >
+                Creative Modern Minimalist Wall Clock
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--19697344545045__featured_collection-8386513174805"
+            
+          >
+            <a
+              href="/products/creative-modern-minimalist-wall-clock"
+              id="CardLink-template--19697344545045__featured_collection-8386513174805"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--19697344545045__featured_collection-8386513174805 Badge-template--19697344545045__featured_collection-8386513174805"
+            >
+              Creative Modern Minimalist Wall Clock
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+  class="
+    price "
+>
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        R 850.00 ZAR
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        R 850.00 ZAR
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li
+            id="Slide-template--19697344545045__featured_collection-5"
+            class="grid__item scroll-trigger animate--slide-in"
+            
+              data-cascade
+              style="--animation-order: 5;"
+            
+          >
+            
+
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=157771854592137137841688381772" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 100%;"
+    >
+      <div
+        class="card__inner color-background-2 gradient ratio"
+        style="--ratio-percent: 100%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//e7a30a-2.myshopify.com/cdn/shop/files/28c592f0-1952-463c-a40d-7e7f3b45af55.jpg?v=1690099318&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/28c592f0-1952-463c-a40d-7e7f3b45af55.jpg?v=1690099318&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/28c592f0-1952-463c-a40d-7e7f3b45af55.jpg?v=1690099318&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/28c592f0-1952-463c-a40d-7e7f3b45af55.jpg?v=1690099318&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/28c592f0-1952-463c-a40d-7e7f3b45af55.jpg?v=1690099318 800w
+                "
+                src="//e7a30a-2.myshopify.com/cdn/shop/files/28c592f0-1952-463c-a40d-7e7f3b45af55.jpg?v=1690099318&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Dual USB Digital Setting Charging Temperature Moisture Meter Mirror LED Alarm Clock"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="800"
+                height="800"
+              >
+              
+<img
+                  srcset="//e7a30a-2.myshopify.com/cdn/shop/files/93dd1003-a936-4694-a576-d182a24a446a.jpg?v=1690099320&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/93dd1003-a936-4694-a576-d182a24a446a.jpg?v=1690099320&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/93dd1003-a936-4694-a576-d182a24a446a.jpg?v=1690099320&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/93dd1003-a936-4694-a576-d182a24a446a.jpg?v=1690099320&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/93dd1003-a936-4694-a576-d182a24a446a.jpg?v=1690099320 800w
+                  "
+                  src="//e7a30a-2.myshopify.com/cdn/shop/files/93dd1003-a936-4694-a576-d182a24a446a.jpg?v=1690099320&width=533"
+                  sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="800"
+                  height="800"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/dual-usb-digital-setting-charging-temperature-moisture-meter-mirror-led-alarm-clock"
+                id="StandardCardNoMediaLink-template--19697344545045__featured_collection-8398619181333"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--19697344545045__featured_collection-8398619181333 NoMediaStandardBadge-template--19697344545045__featured_collection-8398619181333"
+              >
+                Dual USB Digital Setting Charging Temperature Moisture Meter Mirror LED Alarm Clock
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--19697344545045__featured_collection-8398619181333"
+            
+          >
+            <a
+              href="/products/dual-usb-digital-setting-charging-temperature-moisture-meter-mirror-led-alarm-clock"
+              id="CardLink-template--19697344545045__featured_collection-8398619181333"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--19697344545045__featured_collection-8398619181333 Badge-template--19697344545045__featured_collection-8398619181333"
+            >
+              Dual USB Digital Setting Charging Temperature Moisture Meter Mirror LED Alarm Clock
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+  class="
+    price "
+>
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        R 500.00 ZAR
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        R 500.00 ZAR
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li
+            id="Slide-template--19697344545045__featured_collection-6"
+            class="grid__item scroll-trigger animate--slide-in"
+            
+              data-cascade
+              style="--animation-order: 6;"
+            
+          >
+            
+
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=157771854592137137841688381772" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 100%;"
+    >
+      <div
+        class="card__inner color-background-2 gradient ratio"
+        style="--ratio-percent: 100%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//e7a30a-2.myshopify.com/cdn/shop/files/2511636990232.jpg?v=1689794594&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/2511636990232.jpg?v=1689794594&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/2511636990232.jpg?v=1689794594&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/2511636990232.jpg?v=1689794594&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/2511636990232.jpg?v=1689794594&width=940 940w,//e7a30a-2.myshopify.com/cdn/shop/files/2511636990232.jpg?v=1689794594 1000w
+                "
+                src="//e7a30a-2.myshopify.com/cdn/shop/files/2511636990232.jpg?v=1689794594&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="European minimalist creative home wall clock"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="1000"
+                height="1000"
+              >
+              
+<img
+                  srcset="//e7a30a-2.myshopify.com/cdn/shop/files/1488684459522.jpg?v=1689794596&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/1488684459522.jpg?v=1689794596&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/1488684459522.jpg?v=1689794596&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/1488684459522.jpg?v=1689794596&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/1488684459522.jpg?v=1689794596&width=940 940w,//e7a30a-2.myshopify.com/cdn/shop/files/1488684459522.jpg?v=1689794596 1000w
+                  "
+                  src="//e7a30a-2.myshopify.com/cdn/shop/files/1488684459522.jpg?v=1689794596&width=533"
+                  sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="1000"
+                  height="1000"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/european-minimalist-creative-home-wall-clock"
+                id="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386520908053"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386520908053 NoMediaStandardBadge-template--19697344545045__featured_collection-8386520908053"
+              >
+                European minimalist creative home wall clock
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--19697344545045__featured_collection-8386520908053"
+            
+          >
+            <a
+              href="/products/european-minimalist-creative-home-wall-clock"
+              id="CardLink-template--19697344545045__featured_collection-8386520908053"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--19697344545045__featured_collection-8386520908053 Badge-template--19697344545045__featured_collection-8386520908053"
+            >
+              European minimalist creative home wall clock
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+  class="
+    price "
+>
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        R 400.00 ZAR
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        R 400.00 ZAR
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li
+            id="Slide-template--19697344545045__featured_collection-7"
+            class="grid__item scroll-trigger animate--slide-in"
+            
+              data-cascade
+              style="--animation-order: 7;"
+            
+          >
+            
+
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=157771854592137137841688381772" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 100%;"
+    >
+      <div
+        class="card__inner color-background-2 gradient ratio"
+        style="--ratio-percent: 100%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//e7a30a-2.myshopify.com/cdn/shop/files/4a83ca4d-4a7c-4e80-b966-1c00d7398104.jpg?v=1689967205&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/4a83ca4d-4a7c-4e80-b966-1c00d7398104.jpg?v=1689967205&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/4a83ca4d-4a7c-4e80-b966-1c00d7398104.jpg?v=1689967205&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/4a83ca4d-4a7c-4e80-b966-1c00d7398104.jpg?v=1689967205&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/4a83ca4d-4a7c-4e80-b966-1c00d7398104.jpg?v=1689967205 800w
+                "
+                src="//e7a30a-2.myshopify.com/cdn/shop/files/4a83ca4d-4a7c-4e80-b966-1c00d7398104.jpg?v=1689967205&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Fashion Personality Ins Creative Embryo Vase"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="800"
+                height="800"
+              >
+              
+<img
+                  srcset="//e7a30a-2.myshopify.com/cdn/shop/files/8c122750-3aef-4f06-8e1f-97555d89bb93.jpg?v=1689967207&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/8c122750-3aef-4f06-8e1f-97555d89bb93.jpg?v=1689967207&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/8c122750-3aef-4f06-8e1f-97555d89bb93.jpg?v=1689967207&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/8c122750-3aef-4f06-8e1f-97555d89bb93.jpg?v=1689967207&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/8c122750-3aef-4f06-8e1f-97555d89bb93.jpg?v=1689967207 800w
+                  "
+                  src="//e7a30a-2.myshopify.com/cdn/shop/files/8c122750-3aef-4f06-8e1f-97555d89bb93.jpg?v=1689967207&width=533"
+                  sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="800"
+                  height="800"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/fashion-personality-ins-creative-embryo-vase"
+                id="StandardCardNoMediaLink-template--19697344545045__featured_collection-8395166417173"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--19697344545045__featured_collection-8395166417173 NoMediaStandardBadge-template--19697344545045__featured_collection-8395166417173"
+              >
+                Fashion Personality Ins Creative Embryo Vase
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--19697344545045__featured_collection-8395166417173"
+            
+          >
+            <a
+              href="/products/fashion-personality-ins-creative-embryo-vase"
+              id="CardLink-template--19697344545045__featured_collection-8395166417173"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--19697344545045__featured_collection-8395166417173 Badge-template--19697344545045__featured_collection-8395166417173"
+            >
+              Fashion Personality Ins Creative Embryo Vase
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+  class="
+    price "
+>
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        From R 500.00 ZAR
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        From R 500.00 ZAR
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li
+            id="Slide-template--19697344545045__featured_collection-8"
+            class="grid__item scroll-trigger animate--slide-in"
+            
+              data-cascade
+              style="--animation-order: 8;"
+            
+          >
+            
+
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=157771854592137137841688381772" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 100%;"
+    >
+      <div
+        class="card__inner color-background-2 gradient ratio"
+        style="--ratio-percent: 100%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//e7a30a-2.myshopify.com/cdn/shop/files/072dc11e-5a09-4405-82f3-68ac307774d0.jpg?v=1689792385&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/072dc11e-5a09-4405-82f3-68ac307774d0.jpg?v=1689792385&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/072dc11e-5a09-4405-82f3-68ac307774d0.jpg?v=1689792385&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/072dc11e-5a09-4405-82f3-68ac307774d0.jpg?v=1689792385&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/072dc11e-5a09-4405-82f3-68ac307774d0.jpg?v=1689792385 800w
+                "
+                src="//e7a30a-2.myshopify.com/cdn/shop/files/072dc11e-5a09-4405-82f3-68ac307774d0.jpg?v=1689792385&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Japanese Wooden Fruit Bowl Round Wooden Plate Idea"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="800"
+                height="800"
+              >
+              
+<img
+                  srcset="//e7a30a-2.myshopify.com/cdn/shop/files/f19784a4-f45a-4f67-8257-a69df17deecc.jpg?v=1689792387&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/f19784a4-f45a-4f67-8257-a69df17deecc.jpg?v=1689792387&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/f19784a4-f45a-4f67-8257-a69df17deecc.jpg?v=1689792387&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/f19784a4-f45a-4f67-8257-a69df17deecc.jpg?v=1689792387&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/f19784a4-f45a-4f67-8257-a69df17deecc.jpg?v=1689792387 800w
+                  "
+                  src="//e7a30a-2.myshopify.com/cdn/shop/files/f19784a4-f45a-4f67-8257-a69df17deecc.jpg?v=1689792387&width=533"
+                  sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="800"
+                  height="800"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/japanese-wooden-fruit-bowl-round-wooden-plate-idea"
+                id="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386324103445"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386324103445 NoMediaStandardBadge-template--19697344545045__featured_collection-8386324103445"
+              >
+                Japanese Wooden Fruit Bowl Round Wooden Plate Idea
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--19697344545045__featured_collection-8386324103445"
+            
+          >
+            <a
+              href="/products/japanese-wooden-fruit-bowl-round-wooden-plate-idea"
+              id="CardLink-template--19697344545045__featured_collection-8386324103445"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--19697344545045__featured_collection-8386324103445 Badge-template--19697344545045__featured_collection-8386324103445"
+            >
+              Japanese Wooden Fruit Bowl Round Wooden Plate Idea
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+  class="
+    price "
+>
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        From R 198.00 ZAR
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        From R 198.00 ZAR
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li
+            id="Slide-template--19697344545045__featured_collection-9"
+            class="grid__item scroll-trigger animate--slide-in"
+            
+              data-cascade
+              style="--animation-order: 9;"
+            
+          >
+            
+
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=157771854592137137841688381772" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 100%;"
+    >
+      <div
+        class="card__inner color-background-2 gradient ratio"
+        style="--ratio-percent: 100%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//e7a30a-2.myshopify.com/cdn/shop/files/746cb5aa-684b-4ada-9367-db4b3574e622.jpg?v=1689977465&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/746cb5aa-684b-4ada-9367-db4b3574e622.jpg?v=1689977465&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/746cb5aa-684b-4ada-9367-db4b3574e622.jpg?v=1689977465&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/746cb5aa-684b-4ada-9367-db4b3574e622.jpg?v=1689977465&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/746cb5aa-684b-4ada-9367-db4b3574e622.jpg?v=1689977465&width=940 940w,//e7a30a-2.myshopify.com/cdn/shop/files/746cb5aa-684b-4ada-9367-db4b3574e622.jpg?v=1689977465 1000w
+                "
+                src="//e7a30a-2.myshopify.com/cdn/shop/files/746cb5aa-684b-4ada-9367-db4b3574e622.jpg?v=1689977465&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="LED Alarm Clock Mirror Touch Temperature And Humidity Electronic Clock"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="1000"
+                height="1000"
+              >
+              
+<img
+                  srcset="//e7a30a-2.myshopify.com/cdn/shop/files/f72bb305-d0d3-4928-83d9-dadb78854fbd.jpg?v=1689977467&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/f72bb305-d0d3-4928-83d9-dadb78854fbd.jpg?v=1689977467&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/f72bb305-d0d3-4928-83d9-dadb78854fbd.jpg?v=1689977467&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/f72bb305-d0d3-4928-83d9-dadb78854fbd.jpg?v=1689977467&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/f72bb305-d0d3-4928-83d9-dadb78854fbd.jpg?v=1689977467&width=940 940w,//e7a30a-2.myshopify.com/cdn/shop/files/f72bb305-d0d3-4928-83d9-dadb78854fbd.jpg?v=1689977467 1000w
+                  "
+                  src="//e7a30a-2.myshopify.com/cdn/shop/files/f72bb305-d0d3-4928-83d9-dadb78854fbd.jpg?v=1689977467&width=533"
+                  sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="1000"
+                  height="1000"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/led-alarm-clock-mirror-touch-temperature-and-humidity-electronic-clock"
+                id="StandardCardNoMediaLink-template--19697344545045__featured_collection-8395335106837"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--19697344545045__featured_collection-8395335106837 NoMediaStandardBadge-template--19697344545045__featured_collection-8395335106837"
+              >
+                LED Alarm Clock Mirror Touch Temperature And Humidity Electronic Clock
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--19697344545045__featured_collection-8395335106837"
+            
+          >
+            <a
+              href="/products/led-alarm-clock-mirror-touch-temperature-and-humidity-electronic-clock"
+              id="CardLink-template--19697344545045__featured_collection-8395335106837"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--19697344545045__featured_collection-8395335106837 Badge-template--19697344545045__featured_collection-8395335106837"
+            >
+              LED Alarm Clock Mirror Touch Temperature And Humidity Electronic Clock
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+  class="
+    price "
+>
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        R 350.00 ZAR
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        R 350.00 ZAR
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li
+            id="Slide-template--19697344545045__featured_collection-10"
+            class="grid__item scroll-trigger animate--slide-in"
+            
+              data-cascade
+              style="--animation-order: 10;"
+            
+          >
+            
+
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=157771854592137137841688381772" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 100%;"
+    >
+      <div
+        class="card__inner color-background-2 gradient ratio"
+        style="--ratio-percent: 100%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//e7a30a-2.myshopify.com/cdn/shop/files/5850874656296.jpg?v=1689793535&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/5850874656296.jpg?v=1689793535&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/5850874656296.jpg?v=1689793535&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/5850874656296.jpg?v=1689793535&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/5850874656296.jpg?v=1689793535&width=940 940w,//e7a30a-2.myshopify.com/cdn/shop/files/5850874656296.jpg?v=1689793535&width=1066 1066w,//e7a30a-2.myshopify.com/cdn/shop/files/5850874656296.jpg?v=1689793535 1920w
+                "
+                src="//e7a30a-2.myshopify.com/cdn/shop/files/5850874656296.jpg?v=1689793535&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Stainless steel cutlery cutlery set"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="1920"
+                height="1920"
+              >
+              
+<img
+                  srcset="//e7a30a-2.myshopify.com/cdn/shop/files/781973273876.jpg?v=1689793538&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/781973273876.jpg?v=1689793538&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/781973273876.jpg?v=1689793538&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/781973273876.jpg?v=1689793538&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/781973273876.jpg?v=1689793538&width=940 940w,//e7a30a-2.myshopify.com/cdn/shop/files/781973273876.jpg?v=1689793538&width=1066 1066w,//e7a30a-2.myshopify.com/cdn/shop/files/781973273876.jpg?v=1689793538 1920w
+                  "
+                  src="//e7a30a-2.myshopify.com/cdn/shop/files/781973273876.jpg?v=1689793538&width=533"
+                  sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="1920"
+                  height="1920"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/stainless-steel-cutlery-cutlery-set"
+                id="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386400977173"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386400977173 NoMediaStandardBadge-template--19697344545045__featured_collection-8386400977173"
+              >
+                Stainless steel cutlery cutlery set
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--19697344545045__featured_collection-8386400977173"
+            
+          >
+            <a
+              href="/products/stainless-steel-cutlery-cutlery-set"
+              id="CardLink-template--19697344545045__featured_collection-8386400977173"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--19697344545045__featured_collection-8386400977173 Badge-template--19697344545045__featured_collection-8386400977173"
+            >
+              Stainless steel cutlery cutlery set
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+  class="
+    price "
+>
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        R 550.00 ZAR
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        R 550.00 ZAR
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li
+            id="Slide-template--19697344545045__featured_collection-11"
+            class="grid__item scroll-trigger animate--slide-in"
+            
+              data-cascade
+              style="--animation-order: 11;"
+            
+          >
+            
+
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=157771854592137137841688381772" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 100%;"
+    >
+      <div
+        class="card__inner color-background-2 gradient ratio"
+        style="--ratio-percent: 100%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//e7a30a-2.myshopify.com/cdn/shop/files/ac6ea697-1801-4779-8bed-d261d44d6fe7.jpg?v=1689793633&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/ac6ea697-1801-4779-8bed-d261d44d6fe7.jpg?v=1689793633&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/ac6ea697-1801-4779-8bed-d261d44d6fe7.jpg?v=1689793633&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/ac6ea697-1801-4779-8bed-d261d44d6fe7.jpg?v=1689793633&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/ac6ea697-1801-4779-8bed-d261d44d6fe7.jpg?v=1689793633&width=940 940w,//e7a30a-2.myshopify.com/cdn/shop/files/ac6ea697-1801-4779-8bed-d261d44d6fe7.jpg?v=1689793633&width=1066 1066w,//e7a30a-2.myshopify.com/cdn/shop/files/ac6ea697-1801-4779-8bed-d261d44d6fe7.jpg?v=1689793633 1920w
+                "
+                src="//e7a30a-2.myshopify.com/cdn/shop/files/ac6ea697-1801-4779-8bed-d261d44d6fe7.jpg?v=1689793633&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Stainless Steel Western Cutlery Set Golden Cutlery 24 Piece Set"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="1920"
+                height="1920"
+              >
+              
+<img
+                  srcset="//e7a30a-2.myshopify.com/cdn/shop/files/e015ab69-6ef1-48e8-99d8-9af1b3baae13.jpg?v=1689793636&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/e015ab69-6ef1-48e8-99d8-9af1b3baae13.jpg?v=1689793636&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/e015ab69-6ef1-48e8-99d8-9af1b3baae13.jpg?v=1689793636&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/e015ab69-6ef1-48e8-99d8-9af1b3baae13.jpg?v=1689793636&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/e015ab69-6ef1-48e8-99d8-9af1b3baae13.jpg?v=1689793636 800w
+                  "
+                  src="//e7a30a-2.myshopify.com/cdn/shop/files/e015ab69-6ef1-48e8-99d8-9af1b3baae13.jpg?v=1689793636&width=533"
+                  sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="800"
+                  height="800"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/stainless-steel-western-cutlery-set-golden-cutlery-24-piece-set"
+                id="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386407039253"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386407039253 NoMediaStandardBadge-template--19697344545045__featured_collection-8386407039253"
+              >
+                Stainless Steel Western Cutlery Set Golden Cutlery 24 Piece Set
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--19697344545045__featured_collection-8386407039253"
+            
+          >
+            <a
+              href="/products/stainless-steel-western-cutlery-set-golden-cutlery-24-piece-set"
+              id="CardLink-template--19697344545045__featured_collection-8386407039253"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--19697344545045__featured_collection-8386407039253 Badge-template--19697344545045__featured_collection-8386407039253"
+            >
+              Stainless Steel Western Cutlery Set Golden Cutlery 24 Piece Set
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+  class="
+    price "
+>
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        From R 750.00 ZAR
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        From R 750.00 ZAR
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li
+            id="Slide-template--19697344545045__featured_collection-12"
+            class="grid__item scroll-trigger animate--slide-in"
+            
+              data-cascade
+              style="--animation-order: 12;"
+            
+          >
+            
+
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=157771854592137137841688381772" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 100%;"
+    >
+      <div
+        class="card__inner color-background-2 gradient ratio"
+        style="--ratio-percent: 100%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//e7a30a-2.myshopify.com/cdn/shop/files/720647162990.png?v=1689967986&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/720647162990.png?v=1689967986&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/720647162990.png?v=1689967986&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/720647162990.png?v=1689967986&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/720647162990.png?v=1689967986 800w
+                "
+                src="//e7a30a-2.myshopify.com/cdn/shop/files/720647162990.png?v=1689967986&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Waterproof paper vase"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="800"
+                height="800"
+              >
+              
+<img
+                  srcset="//e7a30a-2.myshopify.com/cdn/shop/files/5418706618434.png?v=1689967987&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/5418706618434.png?v=1689967987&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/5418706618434.png?v=1689967987&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/5418706618434.png?v=1689967987&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/5418706618434.png?v=1689967987 800w
+                  "
+                  src="//e7a30a-2.myshopify.com/cdn/shop/files/5418706618434.png?v=1689967987&width=533"
+                  sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="800"
+                  height="800"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/waterproof-paper-vase"
+                id="StandardCardNoMediaLink-template--19697344545045__featured_collection-8395186602261"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--19697344545045__featured_collection-8395186602261 NoMediaStandardBadge-template--19697344545045__featured_collection-8395186602261"
+              >
+                Waterproof paper vase
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--19697344545045__featured_collection-8395186602261"
+            
+          >
+            <a
+              href="/products/waterproof-paper-vase"
+              id="CardLink-template--19697344545045__featured_collection-8395186602261"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--19697344545045__featured_collection-8395186602261 Badge-template--19697344545045__featured_collection-8395186602261"
+            >
+              Waterproof paper vase
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+  class="
+    price "
+>
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        From R 300.00 ZAR
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        From R 300.00 ZAR
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li
+            id="Slide-template--19697344545045__featured_collection-13"
+            class="grid__item scroll-trigger animate--slide-in"
+            
+              data-cascade
+              style="--animation-order: 13;"
+            
+          >
+            
+
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=157771854592137137841688381772" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 100%;"
+    >
+      <div
+        class="card__inner color-background-2 gradient ratio"
+        style="--ratio-percent: 100%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//e7a30a-2.myshopify.com/cdn/shop/files/855ff5da-9955-4022-90fb-4802b77905f4.jpg?v=1689788425&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/855ff5da-9955-4022-90fb-4802b77905f4.jpg?v=1689788425&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/855ff5da-9955-4022-90fb-4802b77905f4.jpg?v=1689788425&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/855ff5da-9955-4022-90fb-4802b77905f4.jpg?v=1689788425&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/855ff5da-9955-4022-90fb-4802b77905f4.jpg?v=1689788425&width=940 940w,//e7a30a-2.myshopify.com/cdn/shop/files/855ff5da-9955-4022-90fb-4802b77905f4.jpg?v=1689788425 1000w
+                "
+                src="//e7a30a-2.myshopify.com/cdn/shop/files/855ff5da-9955-4022-90fb-4802b77905f4.jpg?v=1689788425&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Wooden Table Lamp Base Gold Bronze Color Wooden Plate"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="1000"
+                height="1000"
+              >
+              
+<img
+                  srcset="//e7a30a-2.myshopify.com/cdn/shop/files/fee59845-e71e-4210-8950-fb901d3ddf58.jpg?v=1689788427&width=165 165w,//e7a30a-2.myshopify.com/cdn/shop/files/fee59845-e71e-4210-8950-fb901d3ddf58.jpg?v=1689788427&width=360 360w,//e7a30a-2.myshopify.com/cdn/shop/files/fee59845-e71e-4210-8950-fb901d3ddf58.jpg?v=1689788427&width=533 533w,//e7a30a-2.myshopify.com/cdn/shop/files/fee59845-e71e-4210-8950-fb901d3ddf58.jpg?v=1689788427&width=720 720w,//e7a30a-2.myshopify.com/cdn/shop/files/fee59845-e71e-4210-8950-fb901d3ddf58.jpg?v=1689788427 800w
+                  "
+                  src="//e7a30a-2.myshopify.com/cdn/shop/files/fee59845-e71e-4210-8950-fb901d3ddf58.jpg?v=1689788427&width=533"
+                  sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="800"
+                  height="800"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/wooden-table-lamp-base-gold-bronze-color-wooden-plate"
+                id="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386121957653"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--19697344545045__featured_collection-8386121957653 NoMediaStandardBadge-template--19697344545045__featured_collection-8386121957653"
+              >
+                Wooden Table Lamp Base Gold Bronze Color Wooden Plate
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--19697344545045__featured_collection-8386121957653"
+            
+          >
+            <a
+              href="/products/wooden-table-lamp-base-gold-bronze-color-wooden-plate"
+              id="CardLink-template--19697344545045__featured_collection-8386121957653"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--19697344545045__featured_collection-8386121957653 Badge-template--19697344545045__featured_collection-8386121957653"
+            >
+              Wooden Table Lamp Base Gold Bronze Color Wooden Plate
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+  class="
+    price "
+>
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        R 198.00 ZAR
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        R 198.00 ZAR
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li></ul></slider-component></div>
+</div>
+
+
+</section>
+    </main>
+
+    <!-- BEGIN sections: footer-group -->
+<div id="shopify-section-sections--19697344708885__footer" class="shopify-section shopify-section-group-footer-group">
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/section-footer.css?v=125160298726032154631688381782" rel="stylesheet" type="text/css" media="all" />
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-newsletter.css?v=4727253280200485261688381777" rel="stylesheet" type="text/css" media="all" />
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-list-menu.css?v=151968516119678728991688381766" rel="stylesheet" type="text/css" media="all" />
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-list-payment.css?v=69253961410771838501688381759" rel="stylesheet" type="text/css" media="all" />
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-list-social.css?v=52211663153726659061688381747" rel="stylesheet" type="text/css" media="all" />
+<link href="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/component-localization-form.css?v=14162097032368378391688381765" rel="stylesheet" type="text/css" media="all" />
+<style data-shopify>.footer {
+    margin-top: 0px;
+  }
+
+  .section-sections--19697344708885__footer-padding {
+    padding-top: 42px;
+    padding-bottom: 39px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .footer {
+      margin-top: 0px;
+    }
+
+    .section-sections--19697344708885__footer-padding {
+      padding-top: 56px;
+      padding-bottom: 52px;
+    }
+  }</style><footer class="footer color-background-1 gradient section-sections--19697344708885__footer-padding"><div class="footer__content-top page-width"><div
+            class="footer__blocks-wrapper grid grid--1-col grid--2-col grid--4-col-tablet  scroll-trigger animate--slide-in"
+            
+              data-cascade
+            
+          ><div
+                class="footer-block grid__item scroll-trigger animate--slide-in"
+                
+                
+                  data-cascade
+                  style="--animation-order: 1;"
+                
+              ><div class="footer-block__brand-info"><div
+                          class="footer-block__image-wrapper"
+                          style="max-width: min(100%, 520px);"
+                        >
+                          <img src="//e7a30a-2.myshopify.com/cdn/shop/files/comfortable-living-room-cat.jpg?v=1688484130&amp;width=1100" alt="" srcset="//e7a30a-2.myshopify.com/cdn/shop/files/comfortable-living-room-cat.jpg?v=1688484130&amp;width=50 50w, //e7a30a-2.myshopify.com/cdn/shop/files/comfortable-living-room-cat.jpg?v=1688484130&amp;width=100 100w, //e7a30a-2.myshopify.com/cdn/shop/files/comfortable-living-room-cat.jpg?v=1688484130&amp;width=150 150w, //e7a30a-2.myshopify.com/cdn/shop/files/comfortable-living-room-cat.jpg?v=1688484130&amp;width=200 200w, //e7a30a-2.myshopify.com/cdn/shop/files/comfortable-living-room-cat.jpg?v=1688484130&amp;width=300 300w, //e7a30a-2.myshopify.com/cdn/shop/files/comfortable-living-room-cat.jpg?v=1688484130&amp;width=400 400w, //e7a30a-2.myshopify.com/cdn/shop/files/comfortable-living-room-cat.jpg?v=1688484130&amp;width=550 550w, //e7a30a-2.myshopify.com/cdn/shop/files/comfortable-living-room-cat.jpg?v=1688484130&amp;width=800 800w, //e7a30a-2.myshopify.com/cdn/shop/files/comfortable-living-room-cat.jpg?v=1688484130&amp;width=1100 1100w" width="520" height="416.0" loading="lazy">
+                        </div><h2 class="footer-block__heading rte">Allos.home decor. appliances</h2><div class="rte"><p>Home decor and appliances </p></div></div></div></div><div
+          class="footer-block--newsletter scroll-trigger animate--slide-in"
+          
+            data-cascade
+          
+        ></div>
+      </div><div
+    class="footer__content-bottom scroll-trigger animate--slide-in"
+    
+      data-cascade
+    
+  >
+    <div class="footer__content-bottom-wrapper page-width">
+      <div class="footer__column footer__localization isolate"></div>
+      <div class="footer__column footer__column--info"><div class="footer__payment">
+            <span class="visually-hidden">Payment methods</span>
+            <ul class="list list-payment" role="list"><li class="list-payment__item">
+                  <svg class="icon icon--full-color" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-american_express"><title id="pi-american_express">American Express</title><g fill="none"><path fill="#000" d="M35,0 L3,0 C1.3,0 0,1.3 0,3 L0,21 C0,22.7 1.4,24 3,24 L35,24 C36.7,24 38,22.7 38,21 L38,3 C38,1.3 36.6,0 35,0 Z" opacity=".07"/><path fill="#006FCF" d="M35,1 C36.1,1 37,1.9 37,3 L37,21 C37,22.1 36.1,23 35,23 L3,23 C1.9,23 1,22.1 1,21 L1,3 C1,1.9 1.9,1 3,1 L35,1"/><path fill="#FFF" d="M8.971,10.268 L9.745,12.144 L8.203,12.144 L8.971,10.268 Z M25.046,10.346 L22.069,10.346 L22.069,11.173 L24.998,11.173 L24.998,12.412 L22.075,12.412 L22.075,13.334 L25.052,13.334 L25.052,14.073 L27.129,11.828 L25.052,9.488 L25.046,10.346 L25.046,10.346 Z M10.983,8.006 L14.978,8.006 L15.865,9.941 L16.687,8 L27.057,8 L28.135,9.19 L29.25,8 L34.013,8 L30.494,11.852 L33.977,15.68 L29.143,15.68 L28.065,14.49 L26.94,15.68 L10.03,15.68 L9.536,14.49 L8.406,14.49 L7.911,15.68 L4,15.68 L7.286,8 L10.716,8 L10.983,8.006 Z M19.646,9.084 L17.407,9.084 L15.907,12.62 L14.282,9.084 L12.06,9.084 L12.06,13.894 L10,9.084 L8.007,9.084 L5.625,14.596 L7.18,14.596 L7.674,13.406 L10.27,13.406 L10.764,14.596 L13.484,14.596 L13.484,10.661 L15.235,14.602 L16.425,14.602 L18.165,10.673 L18.165,14.603 L19.623,14.603 L19.647,9.083 L19.646,9.084 Z M28.986,11.852 L31.517,9.084 L29.695,9.084 L28.094,10.81 L26.546,9.084 L20.652,9.084 L20.652,14.602 L26.462,14.602 L28.076,12.864 L29.624,14.602 L31.499,14.602 L28.987,11.852 L28.986,11.852 Z"/></g></svg>
+
+                </li><li class="list-payment__item">
+                  <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-diners_club"><title id="pi-diners_club">Diners Club</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M12 12v3.7c0 .3-.2.3-.5.2-1.9-.8-3-3.3-2.3-5.4.4-1.1 1.2-2 2.3-2.4.4-.2.5-.1.5.2V12zm2 0V8.3c0-.3 0-.3.3-.2 2.1.8 3.2 3.3 2.4 5.4-.4 1.1-1.2 2-2.3 2.4-.4.2-.4.1-.4-.2V12zm7.2-7H13c3.8 0 6.8 3.1 6.8 7s-3 7-6.8 7h8.2c3.8 0 6.8-3.1 6.8-7s-3-7-6.8-7z" fill="#3086C8"/></svg>
+                </li><li class="list-payment__item">
+                  <svg class="icon icon--full-color" viewBox="0 0 38 24" width="38" height="24" role="img" aria-labelledby="pi-discover" fill="none" xmlns="http://www.w3.org/2000/svg"><title id="pi-discover">Discover</title><path fill="#000" opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32z" fill="#fff"/><path d="M3.57 7.16H2v5.5h1.57c.83 0 1.43-.2 1.96-.63.63-.52 1-1.3 1-2.11-.01-1.63-1.22-2.76-2.96-2.76zm1.26 4.14c-.34.3-.77.44-1.47.44h-.29V8.1h.29c.69 0 1.11.12 1.47.44.37.33.59.84.59 1.37 0 .53-.22 1.06-.59 1.39zm2.19-4.14h1.07v5.5H7.02v-5.5zm3.69 2.11c-.64-.24-.83-.4-.83-.69 0-.35.34-.61.8-.61.32 0 .59.13.86.45l.56-.73c-.46-.4-1.01-.61-1.62-.61-.97 0-1.72.68-1.72 1.58 0 .76.35 1.15 1.35 1.51.42.15.63.25.74.31.21.14.32.34.32.57 0 .45-.35.78-.83.78-.51 0-.92-.26-1.17-.73l-.69.67c.49.73 1.09 1.05 1.9 1.05 1.11 0 1.9-.74 1.9-1.81.02-.89-.35-1.29-1.57-1.74zm1.92.65c0 1.62 1.27 2.87 2.9 2.87.46 0 .86-.09 1.34-.32v-1.26c-.43.43-.81.6-1.29.6-1.08 0-1.85-.78-1.85-1.9 0-1.06.79-1.89 1.8-1.89.51 0 .9.18 1.34.62V7.38c-.47-.24-.86-.34-1.32-.34-1.61 0-2.92 1.28-2.92 2.88zm12.76.94l-1.47-3.7h-1.17l2.33 5.64h.58l2.37-5.64h-1.16l-1.48 3.7zm3.13 1.8h3.04v-.93h-1.97v-1.48h1.9v-.93h-1.9V8.1h1.97v-.94h-3.04v5.5zm7.29-3.87c0-1.03-.71-1.62-1.95-1.62h-1.59v5.5h1.07v-2.21h.14l1.48 2.21h1.32l-1.73-2.32c.81-.17 1.26-.72 1.26-1.56zm-2.16.91h-.31V8.03h.33c.67 0 1.03.28 1.03.82 0 .55-.36.85-1.05.85z" fill="#231F20"/><path d="M20.16 12.86a2.931 2.931 0 100-5.862 2.931 2.931 0 000 5.862z" fill="url(#pi-paint0_linear)"/><path opacity=".65" d="M20.16 12.86a2.931 2.931 0 100-5.862 2.931 2.931 0 000 5.862z" fill="url(#pi-paint1_linear)"/><path d="M36.57 7.506c0-.1-.07-.15-.18-.15h-.16v.48h.12v-.19l.14.19h.14l-.16-.2c.06-.01.1-.06.1-.13zm-.2.07h-.02v-.13h.02c.06 0 .09.02.09.06 0 .05-.03.07-.09.07z" fill="#231F20"/><path d="M36.41 7.176c-.23 0-.42.19-.42.42 0 .23.19.42.42.42.23 0 .42-.19.42-.42 0-.23-.19-.42-.42-.42zm0 .77c-.18 0-.34-.15-.34-.35 0-.19.15-.35.34-.35.18 0 .33.16.33.35 0 .19-.15.35-.33.35z" fill="#231F20"/><path d="M37 12.984S27.09 19.873 8.976 23h26.023a2 2 0 002-1.984l.024-3.02L37 12.985z" fill="#F48120"/><defs><linearGradient id="pi-paint0_linear" x1="21.657" y1="12.275" x2="19.632" y2="9.104" gradientUnits="userSpaceOnUse"><stop stop-color="#F89F20"/><stop offset=".25" stop-color="#F79A20"/><stop offset=".533" stop-color="#F68D20"/><stop offset=".62" stop-color="#F58720"/><stop offset=".723" stop-color="#F48120"/><stop offset="1" stop-color="#F37521"/></linearGradient><linearGradient id="pi-paint1_linear" x1="21.338" y1="12.232" x2="18.378" y2="6.446" gradientUnits="userSpaceOnUse"><stop stop-color="#F58720"/><stop offset=".359" stop-color="#E16F27"/><stop offset=".703" stop-color="#D4602C"/><stop offset=".982" stop-color="#D05B2E"/></linearGradient></defs></svg>
+                </li><li class="list-payment__item">
+                  <svg class="icon icon--full-color" width="38" height="24" role="img" aria-labelledby="pi-jcb" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg"><title id="pi-jcb">JCB</title><g fill="none" fill-rule="evenodd"><g fill-rule="nonzero"><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF"/></g><path d="M11.5 5H15v11.5a2.5 2.5 0 0 1-2.5 2.5H9V7.5A2.5 2.5 0 0 1 11.5 5z" fill="#006EBC"/><path d="M18.5 5H22v11.5a2.5 2.5 0 0 1-2.5 2.5H16V7.5A2.5 2.5 0 0 1 18.5 5z" fill="#F00036"/><path d="M25.5 5H29v11.5a2.5 2.5 0 0 1-2.5 2.5H23V7.5A2.5 2.5 0 0 1 25.5 5z" fill="#2AB419"/><path d="M10.755 14.5c-1.06 0-2.122-.304-2.656-.987l.78-.676c.068 1.133 3.545 1.24 3.545-.19V9.5h1.802v3.147c0 .728-.574 1.322-1.573 1.632-.466.144-1.365.221-1.898.221zm8.116 0c-.674 0-1.388-.107-1.965-.366-.948-.425-1.312-1.206-1.3-2.199.012-1.014.436-1.782 1.468-2.165 1.319-.49 3.343-.261 3.926.27v.972c-.572-.521-1.958-.898-2.919-.46-.494.226-.737.917-.744 1.448-.006.56.245 1.252.744 1.497.953.467 2.39.04 2.919-.441v1.01c-.358.255-1.253.434-2.129.434zm8.679-2.587c.37-.235.582-.567.582-1.005 0-.438-.116-.687-.348-.939-.206-.207-.58-.469-1.238-.469H23v5h3.546c.696 0 1.097-.23 1.315-.415.283-.25.426-.53.426-.96 0-.431-.155-.908-.737-1.212zm-1.906-.281h-1.428v-1.444h1.495c.956 0 .944 1.444-.067 1.444zm.288 2.157h-1.716v-1.513h1.716c.986 0 1.083 1.513 0 1.513z" fill="#FFF" fill-rule="nonzero"/></g></svg>
+                </li><li class="list-payment__item">
+                  <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-master"><title id="pi-master">Mastercard</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><circle fill="#EB001B" cx="15" cy="12" r="7"/><circle fill="#F79E1B" cx="23" cy="12" r="7"/><path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"/></svg>
+                </li><li class="list-payment__item">
+                  <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-visa"><title id="pi-visa">Visa</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z" fill="#142688"/></svg>
+                </li></ul>
+          </div></div>
+    </div>
+    <div class="footer__content-bottom-wrapper page-width">
+      <div class="footer__copyright caption">
+        <small class="copyright__content"
+          >&copy; 2023, <a href="/" title="">Allos</a></small>
+        <small class="copyright__content"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></small><ul class="policies list-unstyled"><li>
+                  <small class="copyright__content"
+                    ><a href="/policies/refund-policy">Refund policy</a></small
+                  >
+                </li><li>
+                  <small class="copyright__content"
+                    ><a href="/policies/privacy-policy">Privacy policy</a></small
+                  >
+                </li><li>
+                  <small class="copyright__content"
+                    ><a href="/policies/terms-of-service">Terms of service</a></small
+                  >
+                </li><li>
+                  <small class="copyright__content"
+                    ><a href="/policies/shipping-policy">Shipping policy</a></small
+                  >
+                </li><li>
+                  <small class="copyright__content"
+                    ><a href="/policies/contact-information">Contact information</a></small
+                  >
+                </li></ul></div>
+    </div>
+  </div>
+</footer><script src="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/localization-form.js?v=98683197766447567971688381752" defer="defer"></script>
+</div>
+<!-- END sections: footer-group -->
+
+    <ul hidden>
+      <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+      <li id="a11y-new-window-message">Opens in a new window.</li>
+    </ul>
+
+    <script>
+      window.shopUrl = 'https://e7a30a-2.myshopify.com';
+      window.routes = {
+        cart_add_url: '/cart/add',
+        cart_change_url: '/cart/change',
+        cart_update_url: '/cart/update',
+        cart_url: '/cart',
+        predictive_search_url: '/search/suggest',
+      };
+
+      window.cartStrings = {
+        error: `There was an error while updating your cart. Please try again.`,
+        quantityError: `You can only add [quantity] of this item to your cart.`,
+      };
+
+      window.variantStrings = {
+        addToCart: `Add to cart`,
+        soldOut: `Sold out`,
+        unavailable: `Unavailable`,
+        unavailable_with_option: `[value] - Unavailable`,
+      };
+
+      window.accessibilityStrings = {
+        imageAvailable: `Image [index] is now available in gallery view`,
+        shareSuccess: `Link copied to clipboard`,
+        pauseSlideshow: `Pause slideshow`,
+        playSlideshow: `Play slideshow`,
+      };
+    </script><script src="//e7a30a-2.myshopify.com/cdn/shop/t/2/assets/predictive-search.js?v=162273246065392412141688381764" defer="defer"></script>
+
+<script>
+    window.cjpod = window.cjpod || {};
+</script>
+  
+
+
+</body>
+</html>
